@@ -5,7 +5,7 @@ import "./Orders.scss";
 const Orders = () => {
   const currentUser = {
     id: 1,
-    username: "Anna",
+    username: "Dev Rathore",
     isSeller: true,
   };
 

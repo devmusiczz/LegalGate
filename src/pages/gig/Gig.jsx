@@ -7,15 +7,15 @@ function Gig() {
     <div className="gig">
       <div className="container">
         <div className="left">
-          <span className="breadcrumbs">Liverr | Graphics & Design | </span>
-          <h1>I will create ai generated art for you</h1>
+          <span className="breadcrumbs">Criminal Lawyer</span>
+          <h1>I'm hardworking Lawyer</h1>
           <div className="user">
             <img
               className="pp"
-              src="https://images.pexels.com/photos/720327/pexels-photo-720327.jpeg?auto=compress&cs=tinysrgb&w=1600"
+              src="https://www.blackstonechambers.com/images/JM5_5413.2e16d0ba.fill-600x440.jpg"
               alt=""
             />
-            <span>Anna Bell</span>
+            <span>Gopal Subramanium</span>
             <div className="stars">
               <img src="/img/star.png" alt="" />
               <img src="/img/star.png" alt="" />
@@ -27,43 +27,29 @@ function Gig() {
           </div>
           <Slider slidesToShow={1} arrowsScroll={1} className="slider">
             <img
-              src="https://images.pexels.com/photos/1074535/pexels-photo-1074535.jpeg?auto=compress&cs=tinysrgb&w=1600"
+              src="https://www.blackstonechambers.com/images/JM5_5413.2e16d0ba.fill-600x440.jpg"
               alt=""
             />
             <img
-              src="https://images.pexels.com/photos/1462935/pexels-photo-1462935.jpeg?auto=compress&cs=tinysrgb&w=1600"
+              src="https://3vb.com/wp-content/uploads/2022/04/Gopal-Subramanium.jpg"
               alt=""
             />
             <img
-              src="https://images.pexels.com/photos/1054777/pexels-photo-1054777.jpeg?auto=compress&cs=tinysrgb&w=1600"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gopal_Subramanium.jpg/640px-Gopal_Subramanium.jpg"
               alt=""
             />
           </Slider>
-          <h2>About This Gig</h2>
-          <p>
-            I use an AI program to create images based on text prompts. This
-            means I can help you to create a vision you have through a textual
-            description of your scene without requiring any reference images.
-            Some things I've found it often excels at are: Character portraits
-            (E.g. a picture to go with your DnD character) Landscapes (E.g.
-            wallpapers, illustrations to compliment a story) Logos (E.g. Esports
-            team, business, profile picture) You can be as vague or as
-            descriptive as you want. Being more vague will allow the AI to be
-            more creative which can sometimes result in some amazing images. You
-            can also be incredibly precise if you have a clear image of what you
-            want in mind. All of the images I create are original and will be
-            found nowhere else. If you have any questions you're more than
-            welcome to send me a message.
-          </p>
+          <h2>My Services</h2>
+          <p>Criminal Lawyer / Property / Legal Advice.</p>
           <div className="seller">
-            <h2>About The Seller</h2>
+            <h2>About The Service Provider</h2>
             <div className="user">
               <img
-                src="https://images.pexels.com/photos/720327/pexels-photo-720327.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gopal_Subramanium.jpg/640px-Gopal_Subramanium.jpg"
                 alt=""
               />
               <div className="info">
-                <span>Anna Bell</span>
+                <span>Gopal Subramanium</span>
                 <div className="stars">
                   <img src="/img/star.png" alt="" />
                   <img src="/img/star.png" alt="" />
@@ -79,7 +65,7 @@ function Gig() {
               <div className="items">
                 <div className="item">
                   <span className="title">From</span>
-                  <span className="desc">USA</span>
+                  <span className="desc">Delhi, India</span>
                 </div>
                 <div className="item">
                   <span className="title">Member since</span>
@@ -100,10 +86,12 @@ function Gig() {
               </div>
               <hr />
               <p>
-                My name is Anna, I enjoy creating AI generated art in my spare
-                time. I have a lot of experience using the AI program and that
-                means I know what to prompt the AI with to get a great and
-                incredibly detailed result.
+                My name is Gopal Subramanium I was born in 1958.I am a senior
+                lawyer who mostly worked in the Delhi High Court and Supreme
+                Court of India. I completed my education form Campus Law Centre.
+                I deal with cases such as sealing of commercial buildings which
+                are in the residential area and the OBC quota in public schools.
+                Ill was awarded the National Law Day Award.
               </p>
             </div>
           </div>
@@ -113,17 +101,13 @@ function Gig() {
               <div className="user">
                 <img
                   className="pp"
-                  src="https://images.pexels.com/photos/839586/pexels-photo-839586.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                  src="https://t3.ftcdn.net/jpg/02/48/15/86/360_F_248158608_0ErNeAWWx6GZVDCg66jNRoPGEhHCSpaJ.jpg"
                   alt=""
                 />
                 <div className="info">
-                  <span>Garner David</span>
+                  <span>Rahul Kumar</span>
                   <div className="country">
-                    <img
-                      src="https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png"
-                      alt=""
-                    />
-                    <span>United States</span>
+                    <span>Delhi, India</span>
                   </div>
                 </div>
               </div>
@@ -136,12 +120,10 @@ function Gig() {
                 <span>5</span>
               </div>
               <p>
-                I just want to say that art_with_ai was the first, and after
-                this, the only artist Ill be using on Fiverr. Communication was
-                amazing, each and every day he sent me images that I was free to
-                request changes to. They listened, understood, and delivered
-                above and beyond my expectations. I absolutely recommend this
-                gig, and know already that Ill be using it again very very soon
+                I recently had the pleasure of using his online lawyer service
+                for property matters, and I must say that the experience was
+                nothing short of exceptional. From start to finish, the entire
+                process was smooth, efficient, and hassle-free.
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
@@ -156,17 +138,13 @@ function Gig() {
               <div className="user">
                 <img
                   className="pp"
-                  src="https://images.pexels.com/photos/4124367/pexels-photo-4124367.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                  src="https://static.vecteezy.com/system/resources/thumbnails/006/859/348/small/young-boy-indian-student-portrait-photo.jpg"
                   alt=""
                 />
                 <div className="info">
-                  <span>Sidney Owen</span>
+                  <span>Yogesh Yadav</span>
                   <div className="country">
-                    <img
-                      src="https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1e9-1f1ea.png"
-                      alt=""
-                    />
-                    <span>Germany</span>
+                    <span>Lucknow, India</span>
                   </div>
                 </div>
               </div>
@@ -179,10 +157,10 @@ function Gig() {
                 <span>5</span>
               </div>
               <p>
-                The designer took my photo for my book cover to the next level!
-                Professionalism and ease of working with designer along with
-                punctuality is above industry standards!! Whatever your project
-                is, you need this designer!
+                Outstanding criminal lawyer service. Expertise and dedication
+                led to a favorable outcome. Clear advice and accessibility eased
+                a complex legal process. Highly recommended for top-notch
+                representation in challenging legal situations.
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
@@ -197,17 +175,13 @@ function Gig() {
               <div className="user">
                 <img
                   className="pp"
-                  src="https://images.pexels.com/photos/842980/pexels-photo-842980.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                  src="https://www.vivahonline.com/profileimages/profile_Prasanth%201.jpg"
                   alt=""
                 />
                 <div className="info">
-                  <span>Lyle Giles </span>
+                  <span>Abishekh Sinha</span>
                   <div className="country">
-                    <img
-                      src="https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1fa-1f1f8.png"
-                      alt=""
-                    />
-                    <span>United States</span>
+                    <span>Jaipur, India</span>
                   </div>
                 </div>
               </div>
@@ -220,11 +194,11 @@ function Gig() {
                 <span>5</span>
               </div>
               <p>
-                Amazing work! Communication was
-                amazing, each and every day he sent me images that I was free to
-                request changes to. They listened, understood, and delivered
-                above and beyond my expectations. I absolutely recommend this
-                gig, and know already that Ill be using it again very very soon
+                Exceptional assistance from a him. His profound knowledge and
+                unwavering commitment resulted in a positive resolution. He
+                provided clear guidance and were easily reachable during a
+                complex legal process. I highly recommend his top-tier
+                representation for challenging legal circumstances.
               </p>
               <div className="helpful">
                 <span>Helpful?</span>
@@ -238,40 +212,19 @@ function Gig() {
         </div>
         <div className="right">
           <div className="price">
-            <h3>1 AI generated image</h3>
-            <h2>$ 59.99</h2>
+            <h3>Criminal Lawyer</h3>
+            <h2>Consultation fees: 2,000 Rs </h2>
           </div>
           <p>
-            I will create a unique high quality AI generated image based on a
-            description that you give me
+            Experienced criminal lawyer offering expert legal defense, strategic
+            counsel, and relentless advocacy. Your best ally in navigating the
+            justice system.
           </p>
           <div className="details">
-            <div className="item">
-              <img src="/img/clock.png" alt="" />
-              <span>2 Days Delivery</span>
-            </div>
-            <div className="item">
-              <img src="/img/recycle.png" alt="" />
-              <span>3 Revisions</span>
-            </div>
+            
           </div>
           <div className="features">
-            <div className="item">
-              <img src="/img/greencheck.png" alt="" />
-              <span>Prompt writing</span>
-            </div>
-            <div className="item">
-              <img src="/img/greencheck.png" alt="" />
-              <span>Artwork delivery</span>
-            </div>
-            <div className="item">
-              <img src="/img/greencheck.png" alt="" />
-              <span>Image upscaling</span>
-            </div>
-            <div className="item">
-              <img src="/img/greencheck.png" alt="" />
-              <span>Additional design</span>
-            </div>
+          
           </div>
           <button>Continue</button>
         </div>
