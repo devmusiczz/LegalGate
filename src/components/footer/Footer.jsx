@@ -7,7 +7,7 @@ function Footer() {
       <div className="container">
         <div className="top">
           <div className="item">
-            <h2>Categories</h2>
+            <h2>Category</h2>
             <span>Personal & Family</span>
             <span>Corporate Law</span>
             <span>Civil & Debt Matters</span>

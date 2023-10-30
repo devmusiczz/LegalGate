@@ -24,8 +24,8 @@ const GigCard = ({ item }) => {
           <div className="price">
             <span>STARTING AT</span>
             <h2>
-              $ {item.price}
-              <sup>99</sup>
+              Rs. {item.price}
+              {/* <sup>99</sup> */}
             </h2>
           </div>
         </div>

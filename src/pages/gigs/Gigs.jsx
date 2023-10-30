@@ -22,11 +22,11 @@ function Gigs() {
   return (
     <div className="gigs">
       <div className="container">
-        <span className="breadcrumbs">Liverr > Graphics & Design ></span>
-        <h1>AI Artists</h1>
-        <p>
+        <span className="breadcrumbs">LegalGate > Family Dispute ></span>
+        <h1>Top Advocates</h1>
+        {/* <p>
           Explore the boundaries of art and technology with Liverr's AI artists
-        </p>
+        </p> */}
         <div className="menu">
           <div className="left">
             <span>Budget</span>
@@ -37,7 +37,7 @@ function Gigs() {
           <div className="right">
             <span className="sortBy">Sort by</span>
             <span className="sortType">
-              {sort === "sales" ? "Best Selling" : "Newest"}
+              {sort === "sales" ? "Experience" : "Newest"}
             </span>
             <img src="./img/down.png" alt="" onClick={() => setOpen(!open)} />
             {open && (
