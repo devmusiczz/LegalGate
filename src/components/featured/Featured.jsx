@@ -1,5 +1,6 @@
 import React from "react";
 import "./Featured.scss";
+import "./lawyer.png"
 
 function Featured() {
   return (
@@ -7,25 +8,26 @@ function Featured() {
       <div className="container">
         <div className="left">
           <h1>
-            Find the perfect <span>freelance</span> services for your business
+            Find the best <span>Legal Service Provider</span> as per your requirement
           </h1>
           <div className="search">
             <div className="searchInput">
               <img src="./img/search.png" alt="" />
-              <input type="text" placeholder='Try "building mobil app"' />
+              <input type="text" placeholder='Try "Advocates"' />
             </div>
             <button>Search</button>
           </div>
           <div className="popular">
             <span>Popular:</span>
-            <button>Web Design</button>
-            <button>WordPress</button>
-            <button>Logo Design</button>
-            <button>AI Services</button>
+            <button>Advocates</button>
+            <button>Mediators</button>
+            <button>Arbitrators</button>
+            <button>Notaries</button>
           </div>
         </div>
         <div className="right">
-          <img src="./img/man.png" alt="" />
+          {/* <img src="./img/man.png" alt="" /> */}
+          <img src="./lawyer.png" alt="" />
         </div>
       </div>
     </div>

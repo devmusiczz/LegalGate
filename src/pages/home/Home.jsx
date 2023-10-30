@@ -11,7 +11,7 @@ function Home() {
   return (
     <div className="home">
       <Featured />
-      <TrustedBy />
+      {/* <TrustedBy /> */}
       <Slide slidesToShow={5} arrowsScroll={5}>
         {cards.map((card) => (
           <CatCard key={card.id} card={card} />
@@ -20,14 +20,14 @@ function Home() {
       <div className="features">
         <div className="container">
           <div className="item">
-            <h1>A whole world of freelance talent at your fingertips</h1>
+            <h1>A whole world of freelance Legal Service Providers at your fingertips</h1>
             <div className="title">
               <img src="./img/check.png" alt="" />
               The best for every budget
             </div>
             <p>
               Find high-quality services at every price point. No hourly rates,
-              just project-based pricing.
+              just case-based pricing.
             </p>
             <div className="title">
               <img src="./img/check.png" alt="" />

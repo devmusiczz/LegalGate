@@ -8,10 +8,10 @@ function Footer() {
         <div className="top">
           <div className="item">
             <h2>Categories</h2>
-            <span>Graphics & Design</span>
-            <span>Digital Marketing</span>
-            <span>Writing & Translation</span>
-            <span>Video & Animation</span>
+            <span>Personal & Family</span>
+            <span>Corporate Law</span>
+            <span>Civil & Debt Matters</span>
+            <span>Criminal / Property</span>
             <span>Music & Audio</span>
             <span>Programming & Tech</span>
             <span>Data</span>

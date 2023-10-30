@@ -23,8 +23,8 @@ function Navbar() {
 
   const currentUser = {
     id: 1,
-    username: "Anna",
-    isSeller: true,
+    username: "Dev",
+    isSeller: false,
   };
 
   return (
@@ -32,7 +32,7 @@ function Navbar() {
       <div className="container">
         <div className="logo">
           <Link className="link" to="/">
-            <span className="text">liverr</span>
+            <span className="text">LegalGate</span>
           </Link>
           <span className="dot">.</span>
         </div>
@@ -40,7 +40,7 @@ function Navbar() {
           <span>Liverr Business</span>
           <span>Explore</span>
           <span>English</span>
-          {!currentUser?.isSeller && <span>Become a Seller</span>}
+          {!currentUser?.isSeller && <span>List your Service</span>}
           {currentUser ? (
             <div className="user" onClick={()=>setOpen(!open)}>
               <img
@@ -85,31 +85,31 @@ function Navbar() {
           <hr />
           <div className="menu">
             <Link className="link menuLink" to="/">
-              Graphics & Design
+              Personal & Family
             </Link>
             <Link className="link menuLink" to="/">
-              Video & Animation
+              Corporate Law
             </Link>
             <Link className="link menuLink" to="/">
-              Writing & Translation
+            Civil & Debt Matters
             </Link>
             <Link className="link menuLink" to="/">
-              AI Services
+            Criminal / Property
             </Link>
             <Link className="link menuLink" to="/">
-              Digital Marketing
+            AI Document Generator
             </Link>
             <Link className="link menuLink" to="/">
-              Music & Audio
+            Guides & Articles
             </Link>
             <Link className="link menuLink" to="/">
-              Programming & Tech
+            Get Free Legal Advice
             </Link>
             <Link className="link menuLink" to="/">
-              Business
+              Divorce
             </Link>
             <Link className="link menuLink" to="/">
-              Lifestyle
+            Other Resources
             </Link>
           </div>
           <hr />
