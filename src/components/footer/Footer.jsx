@@ -12,13 +12,10 @@ function Footer() {
             <span>Corporate Law</span>
             <span>Civil & Debt Matters</span>
             <span>Criminal / Property</span>
-            <span>Music & Audio</span>
-            <span>Programming & Tech</span>
-            <span>Data</span>
-            <span>Business</span>
-            <span>Lifestyle</span>
-            <span>Photography</span>
-            <span>Sitemap</span>
+            <span>Mediators</span>
+            <span>Notaries</span>
+            <span>Arbitrators</span>
+            <span>Document Writer</span>
           </div>
           <div className="item">
             <h2>About</h2>
@@ -34,8 +31,8 @@ function Footer() {
             <h2>Support</h2>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Selling on Liverr</span>
-            <span>Buying on Liverr</span>
+            <span>Find a Service</span>
+            <span>Post a Service</span>
           </div>
           <div className="item">
             <h2>Community</h2>
@@ -45,31 +42,20 @@ function Footer() {
             <span>Events</span>
             <span>Blog</span>
             <span>Influencers</span>
-            <span>Affiliates</span>
-            <span>Podcast</span>
-            <span>Invite a Friend</span>
-            <span>Become a Seller</span>
-            <span>Community Standards</span>
           </div>
           <div className="item">
-            <h2>More From Fiverr</h2>
-            <span>Liverr Business</span>
-            <span>Liverr Pro</span>
-            <span>Liverr Logo Maker</span>
-            <span>Liverr Guides</span>
-            <span>Get Inspired</span>
-            <span>Liverr Select</span>
-            <span>ClearVoice</span>
-            <span>Liverr Workspace</span>
-            <span>Learn</span>
-            <span>Working Not Working</span>
+            <h2>More From LegalGate</h2>
+            <span>Guides & Articles</span>
+            <span>Automatic Document Generator</span>
+            <span>Free Legal Advice</span>
+            <span>Legal Aids</span>
+            <span>Indian Penal Code (IPC)</span>
           </div>
         </div>
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>liverr</h2>
-            <span>© Liverr International Ltd. 2023</span>
+            <h2>LegalGate</h2>
           </div>
           <div className="right">
             <div className="social">
@@ -83,10 +69,7 @@ function Footer() {
               <img src="/img/language.png" alt="" />
               <span>English</span>
             </div>
-            <div className="link">
-              <img src="/img/coin.png" alt="" />
-              <span>USD</span>
-            </div>
+            
             <img src="/img/accessibility.png" alt="" />
           </div>
         </div>
