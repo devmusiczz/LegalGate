@@ -5,7 +5,7 @@ import "./MyGigs.scss";
 function MyGigs() {
   const currentUser = {
     id: 1,
-    username: "Anna",
+    username: "Dev Rathore",
     isSeller: true,
   };
 
