@@ -37,7 +37,7 @@ function Navbar() {
           <span className="dot">.</span>
         </div>
         <div className="links">
-          <span>Liverr Business</span>
+          <span>Prince ka  Business</span>
           <span>Explore</span>
           <span>English</span>
           {!currentUser?.isSeller && <span>List your Service</span>}
