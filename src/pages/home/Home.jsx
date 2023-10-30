@@ -61,48 +61,48 @@ function Home() {
       </div>
       <div className="explore">
         <div className="container">
-          <h1>Explore the marketplace</h1>
+          <h1>Explore the legalplace</h1>
           <div className="items">
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/graphics-design.d32a2f8.svg"
+                src="https://img.freepik.com/free-photo/lawyer-with-client_23-2147984180.jpg?size=626&ext=jpg&ga=GA1.1.354228685.1698697071&semt=sph"
                 alt=""
               />
               <div className="line"></div>
-              <span>Graphics & Design</span>
+              <span>Advocates</span>
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/online-marketing.74e221b.svg"
+                src="https://img.freepik.com/free-vector/book-online-reading-digital-library-e-reading-ebooks-archive-internet-bookstore-mobile-ereader-document-text-editing-creative-writing_335657-3443.jpg?size=626&ext=jpg&ga=GA1.1.354228685.1698697071&semt=ais"
                 alt=""
               />
               <div className="line"></div>
 
-              <span>Digital Marketing</span>
+              <span>Document Writers</span>
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/writing-translation.32ebe2e.svg"
+                src="https://img.freepik.com/free-vector/mediation-flat-isometric-business-conflict_126523-2002.jpg?size=626&ext=jpg&ga=GA1.1.354228685.1698697071&semt=sph"
                 alt=""
               />
               <div className="line"></div>
-              <span>Writing & Translation</span>
+              <span>Mediators</span>
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/video-animation.f0d9d71.svg"
+                src="https://img.freepik.com/free-vector/notary-services-isometric-colored-composition-with-last-will-testament-document-vector-illustration_1284-82462.jpg?size=626&ext=jpg&ga=GA1.1.354228685.1698697071&semt=sph"
                 alt=""
               />
               <div className="line"></div>
-              <span>Video & Animation</span>
+              <span>notaries</span>
             </div>
             <div className="item">
               <img
-                src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/music-audio.320af20.svg"
+                src="https://img.freepik.com/premium-photo/real-estate-house-arbitration_1016675-3877.jpg?size=626&ext=jpg&ga=GA1.1.354228685.1698697071&semt=sph"
                 alt=""
               />
-              <div className="line"></div>
-              <span>Music & Audio</span>
+              {/* <div className="line"></div>
+              <span>Arbitrators</span>
             </div>
             <div className="item">
               <img
@@ -140,14 +140,14 @@ function Home() {
               <img
                 src="https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/photography.01cf943.svg"
                 alt=""
-              />
-              <div className="line"></div>
-              <span>Photography</span>
+              /> */}
+              {/* <div className="line"></div> */}
+              <span>Arbitrator</span>
             </div>
           </div>
         </div>
       </div>
-      <div className="features dark">
+      {/* <div className="features dark">
         <div className="container">
           <div className="item">
             <h1>
@@ -183,7 +183,7 @@ function Home() {
             />
           </div>
         </div>
-      </div>
+      </div> */}
       <Slide slidesToShow={4} arrowsScroll={4}>
         {projects.map((card) => (
           <ProjectCard key={card.id} card={card} />
