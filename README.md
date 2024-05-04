@@ -27,24 +27,21 @@
 <br />
 <p align="center">
   <em>
-    <b>Initially it's a frontend but the final project will be the FullStack. Refer to the video below to this project</b>
+    <b>Initially it's a frontend but the final project will be the FullStack. Refer to the video below for this project</b>
   </em>
 </p>
 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sFiag3bfncQ?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
-
-<br />
+(https://www.youtube.com/watch?v=sFiag3bfncQ)
 <br />
 
 In India, it's hard for people to find and get legal help because legal professionals work independently and there's a need for a centralised platform to connect with them easily. 
-So This project is a user-friendly, secure, and transparent functional prototype of e-marketplace platform for Legal Service Provider and citizens of India which address the following challenges :
-- Getting Legal Professionals on Board
+So This project is a user-friendly, secure, and transparent functional prototype of an e-marketplace platform for Legal Service Providers and citizens of India which addresses the following challenges :
+- Getting Legal Professionals on the Board
 - Making Services Transparent 
 - Service Quality Control
 - Matching Clients with the Right Professional
 - Accessible to Everyone
-The platform will also integrate with the bar council association and other courts to verify the legal service providers in future.
+The platform will also integrate with the Bar Council association and other courts to verify the legal service providers in future.
 
 <br />
 
@@ -59,7 +56,7 @@ The platform will also integrate with the bar council association and other cour
 - Message page with one-to-one chat with seller and buyer
 - Single gig page
 - Gig search
-- Image uploading via cloudinary, a media management
+- Image uploading via Cloudinary, a media management
 
 <br />
 
@@ -68,20 +65,20 @@ The platform will also integrate with the bar council association and other cour
 - Chat with buyers
 - Create new gigs and
 - Only the seller's gig can be deleted
-- Gigs can be reviewed by buyers based on comment and stars
+- Gigs can be reviewed by buyers based on comments and stars
 
 ## 🚀 User Features
 
-- Chat with Legal Service Provider
-- Filter and sort gigs for range of price
+- Chat with the Legal Service Provider
+- Filter and sort gigs for a range of price
 - My Orders Section for details of all gigs bought
-- Can review gig and give stars
+- Can review gigs and give stars
 - Order securely with Stripe
 - Search gigs with keywords
 
 ## Getting Started
 
-This project was built using React, Redux, Sass, HTML, JavaScript, Rest API, Node JS, Express and MongoDB with JWT and Stripe integration. It is an Legal Service freelance outsourcing web application and for running on your local environment you should follow these guidelines.
+This project was built using React, Redux, Sass, HTML, JavaScript, Rest API, Node JS, Express and MongoDB with JWT and Stripe integration. It is a Legal Service freelance outsourcing web application and for running on your local environment you should follow these guidelines.
 
 ### Prerequisites
 
@@ -96,13 +93,13 @@ The project repository can be found in [GitHub link](https://github.com/devmusic
 ```
 Using HTTPS
 
-# git clone https://github.com/zuhedshaikh95/fiverr-clone.git
+# git clone https://github.com/devmusiczz/LegalGate/
 ```
 
-- Open terminal on your workspace with
+- Open the terminal on your workspace with
 
 ```
-cd /home/workspace/fiverr-clone
+cd /home/workspace/LegalGate
 ```
 
 ## Install
@@ -129,7 +126,7 @@ To confirm that you have MongoDB installed you can run this command in your term
 mongo -v
 ```
 
-To install all the dependences of the project, run the following command:
+To install all the dependencies of the project, run the following command:
 
 ```
 cd client
@@ -143,7 +140,7 @@ cd server
 npm install
 ```
 
-To run the application got to the client folder and run the following command:
+To run the application go to the client folder and run the following command:
 
 ```
 npm run dev
@@ -159,10 +156,10 @@ To run this project, you will need to add the following environment variables to
 e.g. this_is_secret_123
 
 `MONGODB_URI`
-e.g. mongodb cluster URI
+e.g. MongoDB cluster URI
 
 `STRIPE_SECRET`
-e.g. Secret key from stripe dashboard
+e.g. Secret key from the stripe dashboard
 
 `NODE_ENV`
 e.g. 'development' for local and 'production' for production
@@ -176,16 +173,16 @@ e.g. http://localhost:3000/api or production deployed server link
 e.g. Publishable key from stripe dashboard
 
 `CLOUDINARY_ENV`
-e.g Cloudinary environment string from your cloudinary dashboard
+e.g Cloudinary environment string from your Cloudinary dashboard
 
 `CLOUDINARY_PRESET`
-e.g. Cloudinary preset name from your cloudinary dashboard settings -> Uploads
+e.g. Cloudinary preset name from your Cloudinary dashboard settings -> Uploads
 
 ### Tools used on this project
 
 - Visual Studio Code
 - Vite-JS template
-- MongoDB compass
+- MongoDB Compass
 - Stripe Dashboard to monitor payments
 
 <br />
@@ -194,8 +191,8 @@ e.g. Cloudinary preset name from your cloudinary dashboard settings -> Uploads
 
 ### Let's connect 🤝 <br />
 
-[![linkedin](https://img.shields.io/badge/Zuhed_Shaikh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-rathore-77a588212/)
-[![GitHub](https://img.shields.io/badge/Zuhed_Shaikh-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/devmusiczz)
+[![linkedin](https://img.shields.io/badge/Dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-rathore-77a588212/)
+[![GitHub](https://img.shields.io/badge/Dev-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/devmusiczz)
 
 © 2024 DevMusicz
 
