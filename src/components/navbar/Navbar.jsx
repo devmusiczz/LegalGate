@@ -24,7 +24,7 @@ function Navbar() {
   const currentUser = {
     id: 1,
     username: "Dev",
-    isSeller: false,
+    isSeller: true,
   };
 
   return (
@@ -40,11 +40,12 @@ function Navbar() {
           <span>Liverr Business</span>
           <span>Explore</span>
           <span>English</span>
-          {!currentUser?.isSeller && <span>List your Service</span>}
+          {currentUser?.isSeller && <span>List your Service</span>}
           {currentUser ? (
             <div className="user" onClick={()=>setOpen(!open)}>
+              {/* User Image */}
               <img
-                src="https://images.pexels.com/photos/1115697/pexels-photo-1115697.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://media.licdn.com/dms/image/D5603AQEbJVodCXtVZQ/profile-displayphoto-shrink_400_400/0/1712956418753?e=1720051200&v=beta&t=9BRPD89aFwRiUwwx4pnrm13Uk3oKAEAuZu4kl_8ufpE"
                 alt=""
               />
               <span>{currentUser?.username}</span>
