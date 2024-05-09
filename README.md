@@ -1,3 +1,9 @@
+<div align="center">
+  <br />
+    <a href="https://ibb.co/d4GgJfr"><img src="https://i.ibb.co/hFDf1gy/Screenshot-172.png" alt="LegalGate" border="0"></a>
+    </a>
+  <br />
+</div>
 <h1 align="center">LegalGate.</h1>
 
 <h3 align="center">eMarketplace for Legal Service Provider</h3>
@@ -11,7 +17,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-  <img src="https://img.shields.io/badge/Rest_API-02303A?style=for-the-badge&logo=react-router&logoColor=white" alt="restAPI" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </p>
@@ -19,13 +24,11 @@
 <br />
 <p align="center">
   <em>
-    <b>Initially it's a frontend but the final project will be the FullStack. Refer to the video below for this project</b>
+    <b>I'm currently working on this project to make this fullstack. Currently, it's a Frontend repo, To know more about this project refer to this <a href="https://www.youtube.com/watch?v=sFiag3bfncQ" target="_blank"><b>Youtube Video.</b></a> 
   </em>
 </p>
-<br />
-(https://www.youtube.com/watch?v=sFiag3bfncQ)
-<br />
 
+## <a name="introduction">Problem Statement | Introduction</a>
 In India, it's hard for people to find and get legal help because legal professionals work independently and there's a need for a centralised platform to connect with them easily. 
 So This project is a user-friendly, secure, and transparent functional prototype of an e-marketplace platform for Legal Service Providers and citizens of India which addresses the following challenges :
 - Getting Legal Professionals on the Board
@@ -85,7 +88,7 @@ The project repository can be found in [GitHub link](https://github.com/devmusic
 ```
 Using HTTPS
 
-# git clone https://github.com/devmusiczz/LegalGate/
+# git clone https://github.com/devmusiczz/LegalGate.git
 ```
 
 - Open the terminal on your workspace with
